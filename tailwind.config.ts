@@ -9,8 +9,9 @@ export default {
   theme: {
     extend: {
       colors: {
-        background: "var(--background)",
-        foreground: "var(--foreground)",
+        sepia: '#704214',
+        gold: '#DAA520',
+        darkGreen: '#556B2F',
       },
     },
   },
